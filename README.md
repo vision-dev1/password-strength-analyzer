@@ -6,11 +6,17 @@ Built with HTML, CSS, and JavaScript, this tool helps users understand what make
 🌟 Features
 
 ✅ Real-time strength detection, Instantly checks your password as you type
+
 ✅ Visual strength bar, Color-coded bar (red → green) showing password strength
+
 ✅ Strength message, Displays “Weak”, “Medium”, “Strong”, or “Very Strong”
+
 ✅ Show / Hide password, Toggle visibility easily
+
 ✅ Strong password generator, Suggests secure random passwords
+
 ✅ Modern UI, Clean design with smooth animations
+
 ✅ Cybersecurity education, Demonstrates password hygiene & patterns
 
 
