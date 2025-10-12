@@ -3,6 +3,10 @@
 A simple yet powerful frontend web app that analyzes the strength of your passwords in real time.
 Built with HTML, CSS, and JavaScript, this tool helps users understand what makes a password strong and secure.
 
+🚀 Live Demo
+
+ https://vision-dev1.github.io/password-strength-analyzer/
+
 🌟 Features
 
 ✅ Real-time strength detection, Instantly checks your password as you type
