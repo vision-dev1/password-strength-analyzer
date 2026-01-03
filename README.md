@@ -1,4 +1,4 @@
-# 🔐 Password Strength Analyzer
+# 🔐 Password Strength Analyzer V 1.0
 
 A simple yet powerful frontend web app that analyzes the strength of your passwords in real time.
 Built with HTML, CSS, and JavaScript, this tool helps users understand what makes a password strong and secure.
@@ -74,6 +74,4 @@ Vision KC
 
 💬 "Securing the web, one password at a time."
 
-## 💡 Fun Fact
 
-“Your password is like your toothbrush — don’t share it, and change it often.” 😄
