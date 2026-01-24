@@ -2,8 +2,6 @@
 
 PassStrength is a sleek, client-side password strength analyzer built with zero dependencies. It provide real-time security analysis using entropy-based scoring, pattern detection, and common password blacklisting.
 
-![PassStrength Demo](/home/vision/.gemini/antigravity/brain/a7849447-0569-44ca-b68b-618f9f55fc73/final_screenshot_1769156224171.png)
-
 ## ✨ Features
 
 - **🛡️ Real-time Analysis**: Instant feedback as you type.
