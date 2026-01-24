@@ -1,4 +1,4 @@
-# PassStrength - Modern Password Analyzer
+# PassStrength V 2.0 - Modern Password Analyzer
 
 PassStrength is a sleek, client-side password strength analyzer built with zero dependencies. It provide real-time security analysis using entropy-based scoring, pattern detection, and common password blacklisting.
 
@@ -21,7 +21,7 @@ Since this is a vanilla project, you don't need any build steps.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/PassStrength.git
+   git clone https://github.com/vision-dev1/PassStrength.git
    cd PassStrength
    ```
 
