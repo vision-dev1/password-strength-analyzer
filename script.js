@@ -1,3 +1,4 @@
+// Codes By Visionnn
 document.addEventListener('DOMContentLoaded', () => {
     const passwordInput = document.getElementById('passwordInput');
     const toggleVisibility = document.getElementById('toggleVisibility');
