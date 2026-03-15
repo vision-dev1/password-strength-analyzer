@@ -70,3 +70,10 @@ Even if a password has high entropy, it will be marked as **Very Weak** if it ap
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+## Author
+Vision KC
+[Github](https://github.com/vision-dev1)<br>
+[Portfolio](https://visionkc.com.np)
+
+
