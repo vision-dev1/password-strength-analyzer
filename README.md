@@ -67,6 +67,8 @@ Even if a password has high entropy, it will be marked as **Very Weak** if it ap
 - **CSS3**: Modern styling with CSS variables, Glassmorphism, and smooth transitions.
 - **Vanilla JavaScript**: Pure logic for analysis and DOM manipulation (No frameworks/libraries).
 
+---
+
 ## 🔒 Privacy & Security
 
 **Privacy is a priority.** 
